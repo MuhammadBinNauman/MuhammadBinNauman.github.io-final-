@@ -61,6 +61,7 @@ body
     text-align: center;
     right: 50%;
     left: 50%;
+    font-family:monospace;
 }
 .project2_dis
 {
@@ -68,6 +69,7 @@ body
     text-align: center;
     right: 50%;
     left: 50%;
+    font-family:monospace;
 }
 .project3_dis
 {
@@ -76,6 +78,7 @@ body
     right: 50%;
     left: 50%;
     color: azure;
+    font-family:monospace;
 }
 .project4_dis
 {
@@ -83,17 +86,26 @@ body
     text-align: center;
     right: 65%;
     left: 65%;
+    font-family:monospace;
 }
 .video_1
 {
     position: relative;
-    margin: 0px 20px 0px 20px;
-    height: 100%;
-    width: 800px;
+    height: 40%;
+    width: 40%;
     right: 33%;
     left:33%;
 }
-
+.contentBox0 
+{
+    position: relative;
+    margin: 0px 20px 0px 20px;
+    height: 45%;
+    width: 25%;
+    right: 36%;
+    left: 36%;
+    border-radius: 90%;
+}
 .contentBox 
 {
     position: relative;
@@ -102,7 +114,7 @@ body
     width: 25%;
     right: 36%;
     left: 36%;
-    border-radius: 50%
+    border-radius: 70%
 }
 .contentBox2 
 {
@@ -121,7 +133,7 @@ body
     width: 25%;
     right: 0%;
     left: 0%;
-     border-radius: 50%
+    border-radius: 50%
 }
 div 
 {
@@ -144,7 +156,7 @@ div
 }
 #banner1 {
     position: absolute;
-    height:735px;
+    height:535px;
     width:100%;
     overflow: hidden;
 }
