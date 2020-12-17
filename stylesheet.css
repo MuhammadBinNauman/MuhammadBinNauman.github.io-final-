@@ -1,0 +1,227 @@
+body
+{
+    background-color:#014f59;
+}
+#Profile 
+{
+    
+}
+.Profile_pic
+{
+    position: relative;
+    width: 10%;
+    border-radius: 50%;
+    right: 45%;
+    left: 45%;
+    top: 4px;
+}
+.pic_name
+{
+    margin: 0px;
+    position: relative;
+    text-align: center;
+    font-family:fantasy;
+    color: azure;
+}
+.Header_dis
+{
+    margin: 0px;
+    position: relative;
+    margin: 3%;
+    font-family:monospace;
+    text-align: center;
+    color: azure;
+}
+#section
+{
+    ba
+}
+#section_2
+{
+
+}
+#section_3
+{
+    
+}
+#section_4
+{
+    
+}
+.project
+{
+    color: aliceblue;
+    position: relative;
+    
+}
+
+.Projec1_dis
+{
+    color: aliceblue;
+    text-align: center;
+    right: 50%;
+    left: 50%;
+}
+.project2_dis
+{
+    color: aliceblue;
+    text-align: center;
+    right: 50%;
+    left: 50%;
+}
+.project3_dis
+{
+    color: aliceblue;
+    text-align: center;
+    right: 50%;
+    left: 50%;
+    color: azure;
+}
+.project4_dis
+{
+    color: aliceblue;
+    text-align: center;
+    right: 65%;
+    left: 65%;
+}
+.video_1
+{
+    position: relative;
+    margin: 0px 20px 0px 20px;
+    height: 100%;
+    width: 800px;
+    right: 33%;
+    left:33%;
+}
+
+.contentBox 
+{
+    position: relative;
+    margin: 0px 20px 0px 20px;
+    height: 45%;
+    width: 25%;
+    right: 36%;
+    left: 36%;
+    border-radius: 50%
+}
+.contentBox2 
+{
+    position: relative;
+    margin: 0px 20px 0px 20px;
+    height: 45%;
+    width: 25%;
+    right: 36%;
+    left: 36%;
+}
+.contentBox3
+{
+    position: relative;
+    margin: 0px 20px 0px 20px;
+    height: 45%;
+    width: 25%;
+    right: 0%;
+    left: 0%;
+     border-radius: 50%
+}
+div 
+{
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.space 
+{
+    height:50px;
+    background-color: gray;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#banner {
+    position: absolute;
+    height:605px;
+    width:100%;
+    overflow: hidden;
+}
+#banner1 {
+    position: absolute;
+    height:735px;
+    width:100%;
+    overflow: hidden;
+}
+#banner2 {
+    position: absolute;
+    height:605px;
+    width:100%;
+    overflow: hidden;
+}
+#banner3 {
+    position: absolute;
+    height:905px;
+    width:100%;
+    overflow: hidden;
+}
+#banner4 {
+    position: absolute;
+    height:725px;
+    width:100%;
+    overflow: hidden;
+}
+#videobcg {
+    position: absolute;
+    top: -100px;;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    height:auto;
+    width:auto;
+    z-index: -100;
+}
+#videobcg1 {
+    position: absolute;
+    bottom: -75px;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    height:auto;
+    width:auto;
+    z-index: -100;
+}
+#videobcg2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    height:auto;
+    width:auto;
+    z-index: -100;
+}
+#videobcg3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    height:auto;
+    width:auto;
+    z-index: -100;
+}
+#videobcg4 {
+    position: absolute;
+    bottom: -445px;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    height:auto;
+    width:auto;
+    z-index: -100;
+}
+.document
+{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    top: 5px;
+    background-color: aliceblue;
+    border-radius: 90%;
+}
